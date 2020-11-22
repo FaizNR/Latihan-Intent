@@ -1,0 +1,2 @@
+rootProject.name='MyIntenApp'
+include ':app'

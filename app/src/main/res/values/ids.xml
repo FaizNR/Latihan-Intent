@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_data_recevied" type="id" />
+    <item name="tv_object_recevied" type="id" />
+</resources>
